@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-Dental_Dashboard/static/css/main.bcd5f9b1.css",
-    "main.js": "/React-Dental_Dashboard/static/js/main.fc8a3f29.js",
+    "main.js": "/React-Dental_Dashboard/static/js/main.2b25dece.js",
     "index.html": "/React-Dental_Dashboard/index.html",
     "main.bcd5f9b1.css.map": "/React-Dental_Dashboard/static/css/main.bcd5f9b1.css.map",
-    "main.fc8a3f29.js.map": "/React-Dental_Dashboard/static/js/main.fc8a3f29.js.map"
+    "main.2b25dece.js.map": "/React-Dental_Dashboard/static/js/main.2b25dece.js.map"
   },
   "entrypoints": [
     "static/css/main.bcd5f9b1.css",
-    "static/js/main.fc8a3f29.js"
+    "static/js/main.2b25dece.js"
   ]
 }
